@@ -1,0 +1,39 @@
+# method that returns the sum of two integers
+
+START 
+
+method definition with two parameters
+  return sum of prameter 1 and parameter 2
+
+END
+
+
+# a method that takes an array of strings, and returns a string that is all those strings concatenated together
+
+START
+
+method definition takes 1 array paraeter
+  initialize new variable equal to the array split and then joined
+  return the new variable
+
+END
+
+
+# a method that takes an array of integers, and returns a new array with every other element
+
+START
+
+method definition takes one array
+  define new array
+  for each element in the parameter array with and index
+    if index divided by two equals zero
+      add element to new array
+    end if statement
+  return new array
+end method
+
+
+
+
+
+
